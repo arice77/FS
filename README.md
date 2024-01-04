@@ -1,3 +1,7 @@
 Full Stack Assignment 
-Domain: Real Estate\n
-Team: 4
+
+
+Domain: Real Estate
+
+
+Team 4
